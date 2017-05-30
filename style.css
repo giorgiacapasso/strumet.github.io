@@ -2,6 +2,7 @@ h1 {
   color: red;
   font-style: italic;
 }
+<<<<<<< HEAD
 
 p {
   background: #ffff00;
@@ -15,3 +16,5 @@ h1#primo-h1, p {
 .seconda-parte {
   font-family:sans-serif;
 }
+=======
+>>>>>>> 41e11679f04eb3c822dec651c17e477872e0965c
